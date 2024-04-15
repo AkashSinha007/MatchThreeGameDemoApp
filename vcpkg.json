@@ -1,0 +1,24 @@
+{
+    "name": "editor",
+    "version-string": "0.1.0",
+    "dependencies": [
+        {
+            "name":"imgui"
+        },
+        {
+            "name":"imgui-sfml"
+        },
+        {
+            "name":"glfw3"
+        },
+        {
+            "name":"sdl2"
+        },
+        {
+            "name":"sdl2-ttf"
+        },
+        {
+            "name":"gtest"
+        }
+    ]
+}
